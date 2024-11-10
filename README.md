@@ -54,9 +54,9 @@ while True:
    conn.close() 
 ```
 ## OUPUT
-# Client
+## Client
 ![315955065-cb8a84c0-6789-4a69-97f4-3b949d228c3d](https://github.com/user-attachments/assets/56487731-c9ef-436b-9768-51583141076e)
-# Server
+## Server
 ![315955101-744fc4f7-0ba6-45ec-b480-44749843866e](https://github.com/user-attachments/assets/4ed78d5d-66d9-4d82-b72f-6ef8f81ae9e4)
 
 
